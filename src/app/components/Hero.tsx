@@ -1,4 +1,4 @@
-import heroImage from 'figma:asset/2bba7bcac7c569129fe7c1c5b5b93c999118dd24.png';
+import heroImage from 'src/assets/2bba7bcac7c569129fe7c1c5b5b93c999118dd24.png';
 
 export function Hero() {
   return (

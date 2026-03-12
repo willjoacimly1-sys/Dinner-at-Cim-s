@@ -15,7 +15,7 @@ export function Hero() {
         <div className="mb-6">
           <div className="w-32 h-px bg-gradient-to-r from-transparent via-amber-400 to-transparent mx-auto mb-6"></div>
         </div>
-        <h1 className="text-6xl md:text-7xl font-semibold mb-6 tracking-wide">Dinner at Cims</h1>
+        <h1 className="text-6xl md:text-7xl font-semibold mb-6 tracking-wide">Dinner at Cim's</h1>
         <p className="text-2xl md:text-3xl font-light tracking-wider text-amber-100">Like Dining in the Chef's Home</p>
         <div className="mt-6">
           <div className="w-32 h-px bg-gradient-to-r from-transparent via-amber-400 to-transparent mx-auto"></div>

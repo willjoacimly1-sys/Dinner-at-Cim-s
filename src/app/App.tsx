@@ -19,7 +19,7 @@ export default function App() {
           <div className="grid md:grid-cols-3 gap-8">
             {/* Food Menu */}
             <a 
-              href="https://www.dropbox.com/scl/fi/lzbo502o9rfapfspxifxl/wed-menu.pdf?rlkey=nzex2a1dxe09osskt2wy90egd&st=eqcke8zb&dl=0"
+              href="https://www.dropbox.com/scl/fi/lzbo502o9rfapfspxifxl/wed-menu.pdf?rlkey=nzex2a1dxe09osskt2wy90egd&st=eqcke8zb&dl=1"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white border-2 border-neutral-900 rounded-lg p-8 hover:shadow-lg transition-all duration-300 text-center"
@@ -29,7 +29,7 @@ export default function App() {
 
             {/* Drinks Menu */}
             <a 
-              href="https://www.dropbox.com/scl/fi/y4ktsx84xt4s5pvw1agt3/dinner-at-cim-drink-list-2025-1.pdf?rlkey=p0uapwgesv9zp9o7ok6ov8lrw&st=gq9tq3bg&dl=0"
+              href="https://www.dropbox.com/scl/fi/y4ktsx84xt4s5pvw1agt3/dinner-at-cim-drink-list-2025-1.pdf?rlkey=p0uapwgesv9zp9o7ok6ov8lrw&st=gq9tq3bg&dl=1"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white border-2 border-neutral-900 rounded-lg p-8 hover:shadow-lg transition-all duration-300 text-center"

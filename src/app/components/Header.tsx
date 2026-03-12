@@ -9,7 +9,7 @@ export function Header() {
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className="flex items-center justify-between">
           <div className="text-3xl font-semibold text-amber-50 tracking-wide">
-            Dinner at Cims
+            Dinner at Cim's
           </div>
           
           {/* Desktop Navigation */}

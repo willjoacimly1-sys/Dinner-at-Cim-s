@@ -70,7 +70,7 @@ export function Contact() {
               </div>
               <div className="flex justify-between items-center py-4">
                 <span className="font-semibold text-neutral-900 text-xl">Tuesday - Sunday</span>
-                <span className="text-neutral-600 text-lg">5:00 PM - 9:30 PM</span>
+                <span className="text-neutral-600 text-lg">5:00 PM - 10:00 PM</span>
               </div>
             </div>
           </div>

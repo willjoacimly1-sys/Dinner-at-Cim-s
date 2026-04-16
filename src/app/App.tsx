@@ -24,7 +24,7 @@ export default function App() {
               rel="noopener noreferrer"
               className="bg-white border-2 border-neutral-900 rounded-lg p-8 hover:shadow-lg transition-all duration-300 text-center block"
             >
-              <h3 className="text-2xl font-semibold text-neutral-900">Food</h3>
+              <h3 className="text-2xl font-semibold text-neutral-900">Food Menu</h3>
             </a>
 
             {/* Drinks Menu */}
@@ -34,17 +34,17 @@ export default function App() {
               rel="noopener noreferrer"
               className="bg-white border-2 border-neutral-900 rounded-lg p-8 hover:shadow-lg transition-all duration-300 text-center block"
             >
-              <h3 className="text-2xl font-semibold text-neutral-900">Drinks</h3>
+              <h3 className="text-2xl font-semibold text-neutral-900">Drinks Menu</h3>
             </a>
 
-            {/* Wine Menu - Link this once you have the file in /public */}
+            {/* Wine Menu */}
             <a 
               href="/wine-menu.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white border-2 border-neutral-900 rounded-lg p-8 hover:shadow-lg transition-all duration-300 text-center block"
             >
-              <h3 className="text-2xl font-semibold text-neutral-900">Wine</h3>
+              <h3 className="text-2xl font-semibold text-neutral-900">Wine Menu</h3>
             </a>
           </div>
         </div>
